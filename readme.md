@@ -6,7 +6,7 @@ Este Modelo Educativo está estructurado a partir de tres ideas matrices permane
 
 Asimismo, la formación de personas con vocación de servicio a las sociedad, ámbito principal del cual se pronuncia este Modelo Educativo, establece el rol a cumplir por los profesores y los estudiantes en el proceso de enseñanza-aprendizaje.
 
-![Digrama del Modelo Educativo de la Pontificia Universidad Católica de Valparaíso](me-pucv-2020-sm_modelo-educativo.jpg)
+![Digrama del Modelo Educativo de la Pontificia Universidad Católica de Valparaíso](https://github.com/eadpucv/modelo-educativo-pucv/raw/gh-pages/me-pucv-2020-sm.jpg)
 
 Las ideas matrices recogidas en esta actualización del Modelo Educativo son:
 
